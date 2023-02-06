@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conexion>
+	<base>jdbc:mysql://localhost:3306/dam2</base>
+	<user>root</user>
+	<pass></pass>
+</conexion>
